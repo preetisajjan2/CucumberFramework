@@ -11,4 +11,4 @@ Feature: Search and Place the order for product
       | name |
       | Tom  |
       | Str  |
-      | Beet |
+      
